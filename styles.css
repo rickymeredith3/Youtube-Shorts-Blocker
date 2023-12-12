@@ -1,0 +1,8 @@
+
+ytd-app#content#page-manager > ytd-browse > ytd-two-column-browse-results-renderer > #primary > ytd-rich-grid-renderer > #contents > ytd-rich-section-renderer {
+    display: none;
+}
+
+ytd-watch-next-secondary-results-renderer {
+    display: none;
+}
